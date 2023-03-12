@@ -1,4 +1,4 @@
-import Prueba from '../react/components/PRUEBA/Prueba'
+import Prueba from '../src/react/components/PRUEBA/Prueba'
 
 export default function Home() {
     return (
